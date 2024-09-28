@@ -1,0 +1,73 @@
+h1{
+    background-color: rgb(65, 181, 181);
+    height:40px;
+    width:100%;
+    border-radius:15px ;
+    display: grid;
+    place-items:center ;
+}
+h3{
+    background-color:aquamarine;
+    height:25px;
+    width:25%;
+    padding:12px 13px ;
+    border-radius:12px ;
+    display: grid;
+    place-items:left ; 
+}
+.contact{
+    width:45% ;
+    height:25px;
+    border-radius:9px ;
+}
+p:hover{
+    background-color: rgb(182, 141, 221);
+    width:fit-content;
+    color:white ;
+    display: grid;
+    place-items:center ;
+}
+.name{
+    background-color:aliceblue;
+    width:fit-content ;
+    border-radius:11px ;
+    font-size:18px ;
+    font-style: italic;
+    font-weight: bold;
+    height:25px;
+}
+li:hover{
+    background-color: rgb(182, 141, 221);
+    width:fit-content ;
+    color:white ;
+    display: grid;
+    place-items:center ;
+}
+.work{
+
+    height:25px;
+    width:25%;
+}
+h5{
+    background-color:aquamarine;
+    height:9px;
+    width:15%;
+    border-radius:9px ;
+    padding:12px 12px;
+    display: grid;
+    place-items:left ;
+}
+footer{
+    background-color:darkgrey;
+    color:white;
+    height:45px;
+    display:flex ;
+    justify-content:space-between ;
+}
+ul{
+    margin-top:3px ;
+}
+.footer1{
+    display: flex;
+    justify-content:space-evenly ;
+}
