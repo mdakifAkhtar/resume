@@ -16,16 +16,10 @@ h3{
     place-items:left ; 
 }
 .contact{
-    width:45% ;
+    background-color:antiquewhite;
+    width:fit-content ;
     height:25px;
     border-radius:9px ;
-}
-p:hover{
-    background-color: rgb(182, 141, 221);
-    width:fit-content;
-    color:white ;
-    display: grid;
-    place-items:center ;
 }
 .name{
     background-color:aliceblue;
